@@ -27,7 +27,8 @@
       "COMPUTER": "Computers",
       "INDUSTRIAL": "Industrial",
       "NEW_ARRIVAL": "New Arrival",
-      "TERM_&_CONDITION": "Term & Conditions"
+      "TERM_&_CONDITION": "Term & Conditions",
+      "hello": "world"
     },
     "STORE_SCREEN": {
       "CHOOSE_FOR_YOU": "Choose for you",
